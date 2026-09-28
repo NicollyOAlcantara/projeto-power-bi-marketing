@@ -50,7 +50,7 @@ Também é possível comparar as vendas entre diferentes países e observar sua 
 
 ## 🖼️ Dashboard
 
-![Dashboard de Vendas Globais](Lab%2001%20-%20Dashboard%20Anal%C3%ADtico%20de%20Vendas%20Globais.jpg)
+![Dashboard de Vendas Globais](./dashboard-vendas-globais.jpg)
 
 ## 📄 Arquivo do projeto
 
